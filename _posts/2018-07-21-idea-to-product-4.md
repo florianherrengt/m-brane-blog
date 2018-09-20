@@ -55,10 +55,10 @@ It’s always hard to make the difference between accidental complexity and esse
 
 # Recommended books
 
-- The Mythical Man-Month by Frederick P. Brooks Jr. tackles engineering and communications issues in software development.
-- The Clean Coder by Robert C. Martin introduces the disciplines, techniques, tools, and practices of true software craftsmanship.
-- Working Effectively with Legacy Code by Michael C. Feathers is a useful read to identify how legacy code is produced. The code written today will be legacy tomorrow.
+- [The Clean Coder](https://www.goodreads.com/book/show/10284614-the-clean-coder) by Robert C. Martin introduces the disciplines, techniques, tools, and practices of true software craftsmanship.
+- [The Mythical Man-Month](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) by Frederick P. Brooks Jr. tackles engineering and communications issues in software development.
+- [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) by Michael C. Feathers is a useful read to identify how legacy code is produced. The code written today will be legacy tomorrow.
 
 # Recommended articles
 
-- Shit Startups Do
+- [Shit Startups Do](https://hackernoon.com/shit-startups-do-episode-1-cbfa73f9c25f)

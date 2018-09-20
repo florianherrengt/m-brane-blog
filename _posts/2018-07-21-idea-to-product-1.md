@@ -50,9 +50,9 @@ Last time we did it, we collected more than 300 feedbacks in 2 days, quickly val
 
 # Recommended books
 
-- Don’t Make Me Think by Steve Krug is a must read. It’s so popular it became a standard in the industry.
-- How to Win Friends and Influence People by Dale Carnegie is a good read if you want to improve your communication skills. The Quick and Easy Way to Effective Speaking by the same author will help you get over your fear of talking to strangers.
-- Exactly What to Say by Phil M. Jones will be useful when someone will be commenting your app.
+- [Don’t Make Me Think](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) by Steve Krug is a must read. It’s so popular it became a standard in the industry.
+- [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie is a good read if you want to improve your communication skills. The Quick and Easy Way to Effective Speaking by the same author will help you get over your fear of talking to strangers.
+- [Exactly What to Say](https://www.goodreads.com/book/show/35414701-exactly-what-to-say) by Phil M. Jones will be useful when someone will be commenting your app.
 
 # Read next
 

@@ -92,15 +92,15 @@ Revisit the design you created at the beginning. It’s a good time to use the k
 
 # Recommended books
 
-- Automate the Boring Stuff with Python by Al Sweigart contains step-by-step instructions to automate common tasks. You will be able to transfer this knowledge to many other things.
-- The 4-Hour Work Week by Timothy Ferris has some interesting idea about how to outsource your work
-- Profit First by Mike Michalowicz reminds us that things are not as simple as “Increase sales and the profit will take care of itself”
+- [Automate the Boring Stuff with Python](https://www.goodreads.com/book/show/22514127-automate-the-boring-stuff-with-python) by Al Sweigart contains step-by-step instructions to automate common tasks. You will be able to transfer this knowledge to many other things.
+- [The 4-Hour Work Week](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) by Timothy Ferris has some interesting idea about how to outsource your work
+- [Profit First](https://www.goodreads.com/book/show/35275600-profit-first) by Mike Michalowicz reminds us that things are not as simple as “Increase sales and the profit will take care of itself”
 
 # Recommended articles
 
-- A Pest Control Service Created an MVP With No Coding
-- What can you do with Sheets?
-- Creating a horse racing Tableau dashboard from data scraping
+- [A Pest Control Service Created an MVP With No Coding](https://zapier.com/blog/build-google-sheets-databases)
+- [What can you do with Sheets?](https://gsuite.google.com/learning-center/products/sheets/get-started)
+- [Creating a horse racing Tableau dashboard from data scraping](https://importiov4.staging.wpengine.com/post/data-scraping-horse-racing)
 
 # Read next
 

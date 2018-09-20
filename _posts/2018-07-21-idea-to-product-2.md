@@ -36,9 +36,9 @@ Now that you have users, you need to put in place systems to help you.
 
 # Recommended books
 
-- The 7 Day Startup by Dan Norris and Rob Walling debunks popular marketing advice like “Hack your growth” or “Optimise your funnel”. It explains how to concentrate on the business model instead.
-- The $100 Startup by Chris Guillebeau focuses on delivering value first. I got the PETER F. DRUCKER quote from this book.
-- Will It Fly? by Pat Flynn has good techniques to experiment with your product and find users.
+- [The 7 Day Startup](https://www.goodreads.com/book/show/23290805-the-7-day-startup) by Dan Norris and Rob Walling debunks popular marketing advice like “Hack your growth” or “Optimise your funnel”. It explains how to concentrate on the business model instead.
+- [The $100 Startup](https://www.goodreads.com/book/show/12605157-the-100-startup) by Chris Guillebeau focuses on delivering value first. I got the PETER F. DRUCKER quote from this book.
+- [Will It Fly?](https://www.smartpassiveincome.com/will-it-fly) by Pat Flynn has good techniques to experiment with your product and find users.
 
 # Read next
 

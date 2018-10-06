@@ -3,7 +3,7 @@
 blog_theme: light # Or use dark
 name: M-Brane
 paginate: 25
-url: blog.m-brane.co.uk
+url: https://blog.m-brane.co.uk
 
 # Optional settings
 

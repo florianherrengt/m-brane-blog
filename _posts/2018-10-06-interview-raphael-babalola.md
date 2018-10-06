@@ -3,17 +3,11 @@ layout: post
 title: "Interview with Raphael Babalola"
 description: "Raphael is an experienced entrepreneur with a demonstrated history of working in high growth startups."
 tags: [Interview, Entrepreneurship, Startup, MVP, Product]
+thumb_image: microphone.jpg
 ---
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/497009415&color=%235aafe8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
 <br>
-
-Audio Title: Interview with Raphael Babalola
-Audio Duration: 0:64:11
-Number of Speakers: 2
-
-Transcript
 
 **Florian:** Hi Raphael. You are an entrepreneur. You’re running a company called Wanderpay.
 
@@ -63,7 +57,7 @@ So I guess in a way, that was – Sait sort of thinking outside of the box, thin
 
 I think perseverance attracts favour and what I mean by that is nobody can ever knock a trial. You know, people aren’t going to look at you for trying and sort of look down on you. I think there’s something in everyone where they see somebody that’s trying and even if you can’t directly help yourself, you think to yourself, “How can I maybe get somebody else involved that can help this person?”
 
-That’s exactly what happened to us. We had people within that room who sort of saw what we were doing and they were like – and people making phone calls on our behalf, people who weren’t in the place at all. We had one guy, a guy called Will Mersa, absolute legend. He made a phone call to a friend of his. He was an Android developer and he was like, “Hey, look mate. You need to come down. There are these two guys Raphael and Sait are working on this really good idea. I think they’ve got something,” and the guy’s name was Dom. Dom was like, “Cool. I will come down. I will see what this is about.”
+That’s exactly what happened to us. We had people within that room who sort of saw what we were doing and they were like – and people making phone calls on our behalf, people who weren’t in the place at all. We had one guy, a guy called Will Mersa [0:08:52][phonetic], absolute legend. He made a phone call to a friend of his. He was an Android developer and he was like, “Hey, look mate. You need to come down. There are these two guys Raphael and Sait are working on this really good idea. I think they’ve got something,” and the guy’s name was Dom. Dom was like, “Cool. I will come down. I will see what this is about.”
 
 He came down. We had a conversation and said, “This is what we’re trying to build,” and he was just like, “Yeah, I get it. Let’s make it happen.” So it was myself, Sait, Dom. So now we’re a team. We’ve got someone who’s building like a very, very basic version of what like an Android app would look like. Myself and Sait are working on a business case doing research and how many people would use this, etc, and then we had one other guy.
 
@@ -73,7 +67,7 @@ So I was part of a group called YBTL. It’s a Slack group. So it’s called You
 
 **Raphael:** Yeah. So it’s essentially a community of – I think we’re talking thousands of young black innovators, investors, entrepreneurs, coders, designers, etc. So I put out a quick message in there and I said, “Hey, look. I’m at this thing. I don’t know if anybody can help. But I’m just going to try my luck and see if anybody is interested in coming down to help out.”
 
-We had one guy, a guy called Tyro. He was like, “Yeah, I’m a designer. I’m happy to come down. I’ve got my experience. I think this will be cool,” and yeah, so now I have a designer, a developer, myself, Sait and it was – it went on from Friday to Sunday. So Sunday was the final and that’s when you present to the execs from British Airways, MasterCard, Sabre, really, really big players in the world of travel and payments and we put this presentation across and I think there’s even a video on the internet. I think it’s on YouTube. In fact it is on YouTube. I will send you the link for it.
+We had one guy, a guy called Tyro [0:10:21][phonetic]. He was like, “Yeah, I’m a designer. I’m happy to come down. I’ve got my experience. I think this will be cool,” and yeah, so now I have a designer, a developer, myself, Sait and it was – it went on from Friday to Sunday. So Sunday was the final and that’s when you present to the execs from British Airways, MasterCard, Sabre, really, really big players in the world of travel and payments and we put this presentation across and I think there’s even a video on the internet. I think it’s on YouTube. In fact it is on YouTube. I will send you the link for it.
 
 I just remember sort of we’ve done our pitch and I was so nervous. But for some reason, the whole way through, Sait was like, “No, we want …” Like just this unshakeable confidence and this unshakeable belief that we’ve done enough. Like we deserve this. Like we didn’t go home when everything was telling us to go home. Like we deserve to have some sort of respite for that. We deserve something back for that.
 

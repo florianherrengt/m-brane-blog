@@ -6,8 +6,6 @@ tags: [Entrepreneurship, Code, Team]
 thumb_image: good-code.jpg
 ---
 
-When you haven't spent the last 5-10 years building software products, it’s easy for people to pull the wool over your eyes.
-
 There are many stories about founders giving most of their money to con artists. They promised them the best app ever and a few months later, founders got nothing and everyone else is gone.
 
 ## Ask questions

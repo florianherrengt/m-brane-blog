@@ -1,20 +1,58 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
   <channel>
-    <title>{{ site.name | xml_escape }}</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ page.path | absolute_url }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
+    <title>M-Brane</title>
+    <description></description>
+    <link>https://blog.m-brane.co.uk</link>
+    <atom:link href="https://blog.m-brane.co.uk/feed.xml" rel="self" type="application/rss+xml" />
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.description | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | absolute_url }}</link>
-        <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+        <title>Are my developers good?</title>
+        <description>When you haven't spent the last 5-10 years building software products, it’s easy for people to pull the wool over your eyes. This post covers what you need to know.</description>
+        <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+        <link>https://blog.m-brane.co.uk/posts/are-my-developers-good</link>
+        <guid isPermaLink="true">https://blog.m-brane.co.uk/posts/are-my-developers-good</guid>
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Interview with Raphael Babalola</title>
+        <description>Raphael is an experienced entrepreneur with a demonstrated history of working in high growth startups.</description>
+        <pubDate>Sat, 06 Oct 2018 00:00:00 +0100</pubDate>
+        <link>https://blog.m-brane.co.uk/posts/interview-raphael-babalola</link>
+        <guid isPermaLink="true">https://blog.m-brane.co.uk/posts/interview-raphael-babalola</guid>
+      </item>
+    
+      <item>
+        <title>From idea to product — Part 4: Build an app that doesn’t scale</title>
+        <description>This series of articles is targeting entrepreneurs who want to build a tech product. We will explain how to transform ideas into products based on previous experiences.</description>
+        <pubDate>Sat, 21 Jul 2018 00:00:00 +0100</pubDate>
+        <link>https://blog.m-brane.co.uk/posts/idea-to-product-4</link>
+        <guid isPermaLink="true">https://blog.m-brane.co.uk/posts/idea-to-product-4</guid>
+      </item>
+    
+      <item>
+        <title>From idea to product — Part 3: Create your product with existing tools</title>
+        <description>This series of articles is targeting entrepreneurs who want to build a tech product. We will explain how to transform ideas into products based on previous experiences.</description>
+        <pubDate>Sat, 21 Jul 2018 00:00:00 +0100</pubDate>
+        <link>https://blog.m-brane.co.uk/posts/idea-to-product-3</link>
+        <guid isPermaLink="true">https://blog.m-brane.co.uk/posts/idea-to-product-3</guid>
+      </item>
+    
+      <item>
+        <title>From idea to product — Part 2: Get your early adopters without writing code</title>
+        <description>This series of articles is targeting entrepreneurs who want to build a tech product. We will explain how to transform ideas into products based on previous experiences.</description>
+        <pubDate>Sat, 21 Jul 2018 00:00:00 +0100</pubDate>
+        <link>https://blog.m-brane.co.uk/posts/idea-to-product-2</link>
+        <guid isPermaLink="true">https://blog.m-brane.co.uk/posts/idea-to-product-2</guid>
+      </item>
+    
+      <item>
+        <title>From idea to product — Part 1: Define your product from your idea</title>
+        <description>This series of articles is targeting entrepreneurs who want to build a tech product. We will explain how to transform ideas into products based on previous experiences.</description>
+        <pubDate>Sat, 21 Jul 2018 00:00:00 +0100</pubDate>
+        <link>https://blog.m-brane.co.uk/posts/idea-to-product-1</link>
+        <guid isPermaLink="true">https://blog.m-brane.co.uk/posts/idea-to-product-1</guid>
+      </item>
+    
   </channel>
 </rss>

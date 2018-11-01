@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>M-Brane | From idea to product — Part 4: Build an app that doesn’t scale</title>
+  <meta name="description" content="This series of articles is targeting entrepreneurs who want to build a tech product. We will explain how to transform ideas into products based on previous experiences.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="From idea to product — Part 4: Build an app that doesn’t scale">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://blog.m-brane.co.uk/posts/idea-to-product-4">
+  <meta property="og:description" content="This series of articles is targeting entrepreneurs who want to build a tech product. We will explain how to transform ideas into products based on previous experiences.">
+  <meta property="og:site_name" content="M-Brane">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:url" content="https://blog.m-brane.co.uk/posts/idea-to-product-4">
+  <meta name="twitter:title" content="From idea to product — Part 4: Build an app that doesn’t scale">
+  <meta name="twitter:description" content="This series of articles is targeting entrepreneurs who want to build a tech product. We will explain how to transform ideas into products based on previous experiences.">
+
+  
+    <meta property="og:image" content="https://blog.m-brane.co.uk/assets/og-image-b80b03586787fe51108c9d6a2b2db05bb1e731dbd8199b4ee8f56290d41b5412.jpg">
+    <meta name="twitter:image" content="https://blog.m-brane.co.uk/assets/og-image-b80b03586787fe51108c9d6a2b2db05bb1e731dbd8199b4ee8f56290d41b5412.jpg">
+  
+
+  <link href="https://blog.m-brane.co.uk/feed.xml" type="application/rss+xml" rel="alternate" title="M-Brane Last 10 blog posts" />
+
+  
+
+  
+    <link rel="icon" type="image/x-icon" href="/assets/favicon-light-bb79734b6d1c2b32cf505a6385cdd32392fcfc69f12d7929fe6b878f7f4569dd.ico">
+    <link rel="apple-touch-icon" href="/assets/apple-touch-icon-light-87d1f2a3a19b1500e5c1626a0492025ca5f7f97d24540dc5900288e92112925a.png">
+    <link rel="stylesheet" type="text/css" href="/assets/light-b34f12b58415aa3a5f6cf5f4caec8a9f2971a5aba876b1956e66ddb8dc92581f.css">
+  
+</head>
+
+<body>
+  <main>
+    <div class="grid grid-centered">
+      <div class="grid-cell">
+        <nav class="header-nav scrollappear">
+  <a href="/" class="header-logo" title="M-Brane">M-Brane</a>
+  <ul class="header-links">
+    
+      <li>
+        <a href="/about" title="About me">
+          <svg xmlns="http://www.w3.org/2000/svg" class="icon-about">
+  <use href="/assets/about-ecf154b571ab8034ae00aeed91a3b7ad68db80b46d958753ad6216c919486e88.svg#icon-about" xlink:href="/assets/about-ecf154b571ab8034ae00aeed91a3b7ad68db80b46d958753ad6216c919486e88.svg#icon-about"></use>
+</svg>
+
+        </a>
+      </li>
+    
+    
+      <li>
+        <a href="https://twitter.com/MBrane3" rel="noreferrer noopener" target="_blank" title="Twitter">
+          <svg xmlns="http://www.w3.org/2000/svg" class="icon-twitter">
+  <use href="/assets/twitter-8842c33965263ad1b03a978406826677a668f94125d5837e70ab83f24b3213a7.svg#icon-twitter" xlink:href="/assets/twitter-8842c33965263ad1b03a978406826677a668f94125d5837e70ab83f24b3213a7.svg#icon-twitter"></use>
+</svg>
+
+        </a>
+      </li>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      <li>
+        <a href="/feed.xml" rel="noreferrer noopener" target="_blank" title="RSS">
+          <svg xmlns="http://www.w3.org/2000/svg" class="icon-rss">
+  <use href="/assets/rss-541ec5cea9cefd10d2fcfec01888f3f231a8829940249835fa7b7b3a12ae0d0d.svg#icon-rss" xlink:href="/assets/rss-541ec5cea9cefd10d2fcfec01888f3f231a8829940249835fa7b7b3a12ae0d0d.svg#icon-rss"></use>
+</svg>
+
+        </a>
+      </li>
+    
+  </ul>
+</nav>
+
+        <article class="article scrollappear">
+          <header class="article-header">
+            <h1>From idea to product — Part 4: Build an app that doesn’t scale</h1>
+            <p>This series of articles is targeting entrepreneurs who want to build a tech product. We will explain how to transform ideas into products based on previous experiences.</p>
+            <div class="article-list-footer">
+              <span class="article-list-date">
+                July 21, 2018
+              </span>
+              <span class="article-list-divider">-</span>
+              <span class="article-list-minutes">
+                
+                
+                  3 minute read
+                
+              </span>
+              <span class="article-list-divider">-</span>
+              <div class="article-list-tags">
+                
+                  <a href="/tag/Entrepreneurship">Entrepreneurship</a>
+                
+                  <a href="/tag/Startup">Startup</a>
+                
+                  <a href="/tag/MVP">MVP</a>
+                
+                  <a href="/tag/Product">Product</a>
+                
+              </div>
+            </div>
+          </header>
+
+          <div class="article-content">
+            <p><a href="./idea-to-product-1">Part 1: Define your product from your idea</a><br />
+<a href="./idea-to-product-2">Part 2: Get your early adopters without writing code</a><br />
+<a href="./idea-to-product-3">Part 3: Create your product with existing tools</a><br />
+<a href="./idea-to-product-4">Part 4: Build an app that doesn’t scale</a></p>
+
+<h1 id="build-an-app-that-doesnt-scale">Build an app that doesn’t scale</h1>
+
+<p>What your product does is crystal clear. You have a design ready. You need to build it and get thousands of users onboard.</p>
+
+<p>Be careful not to over-engineer your app. Always keep in mind each feature will cost time and money. Consider the opportunity cost and maintenance overhead.</p>
+
+<p>There is no formula to write perfect software yet. Estimations will be wrong, bugs will happen and tech debt will be introduced. The less code you write, the less you have to deal with them.</p>
+
+<p>Building a scalable app requires a gigantic amount of work, expensive resources and complex skills. It involves teams of engineers specialised in their respective domain.</p>
+
+<p>By building for scale, you introduce unnecessary complexity. It slows down the business without adding any immediate value. Before scaling, you need to have an in-depth understanding of each part of your system.</p>
+
+<p>You should focus on technologies that increase the communication in your team.</p>
+
+<blockquote>
+  <p>“Programs must be written for people to read, and only incidentally for machines to execute.” ― Harold Abelson</p>
+</blockquote>
+
+<p>Don’t spend weeks or months “building the foundations”. You need to be able to add, remove and change things in days.</p>
+
+<h1 id="focus-on-communication">Focus on communication</h1>
+
+<p>Get everyone — including non-tech people — involved when introducing a new technology. Explain why you think it’s a good idea and what value it brings.</p>
+
+<p>Let’s have a look at two common sentences one might hear while discussing a technological choice.</p>
+
+<p>“GraphQL is a great way to help developers communicate with each other. Our API documentation tends to be out of date and this would help to solve it.”
+“GraphQL has better performance. It transfers fewer data between the client and the servers. It has more libraries to speed up our development”.
+The first one is centred on improving communication. The second wants to fix non-existing issues.</p>
+
+<p>Now, let’s talk about the two most common arguments: Scaling and development speed.</p>
+
+<h1 id="scaling">Scaling</h1>
+
+<p>If you architect your app correctly, standard technologies will scale. Thousands of monthly active users shouldn’t be an issue. Getting a bigger server will most of the time solve your problem. If the tech stack is clear and manageable, it will be easier to identify bottlenecks.</p>
+
+<h1 id="development-speed">Development speed</h1>
+
+<p>When you introduce a new tool, you increase the level of knowledge required. You raise the risk of introducing tech debt that will take time to refactor later. Ultimately, it will slow down the team.</p>
+
+<p>It’s always hard to make the difference between accidental complexity and essential complexity. But there are common ways to improve communication and sustain development speed.</p>
+
+<ul>
+  <li>Write tests. You don’t need a great coverage. But when you deploy a new version, you want an automated way to check you didn’t break any vital parts.</li>
+  <li>Set up a continuous integration. You need a server that runs your tests and deploys your app automatically.</li>
+</ul>
+
+<h1 id="recommended-books">Recommended books</h1>
+
+<ul>
+  <li><a href="https://www.goodreads.com/book/show/10284614-the-clean-coder">The Clean Coder</a> by Robert C. Martin introduces the disciplines, techniques, tools, and practices of true software craftsmanship.</li>
+  <li><a href="https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month">The Mythical Man-Month</a> by Frederick P. Brooks Jr. tackles engineering and communications issues in software development.</li>
+  <li><a href="https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code">Working Effectively with Legacy Code</a> by Michael C. Feathers is a useful read to identify how legacy code is produced. The code written today will be legacy tomorrow.</li>
+</ul>
+
+<h1 id="recommended-articles">Recommended articles</h1>
+
+<ul>
+  <li><a href="https://hackernoon.com/shit-startups-do-episode-1-cbfa73f9c25f">Shit Startups Do</a></li>
+</ul>
+
+          </div>
+          <div class="article-share">
+            
+            
+            <a href="https://twitter.com/home?status=From+idea+to+product%20%E2%80%94%20Part+4:+Build+an+app+that+doesn%E2%80%99t+scale%20-%20https://blog.m-brane.co.uk/posts/idea-to-product-4%20by%20@MBrane3" title="Share on Twitter" rel="noreferrer noopener" target="_blank">
+              <svg viewBox="0 0 512 512"><path d="M492 109.5c-17.4 7.7-36 12.9-55.6 15.3 20-12 35.4-31 42.6-53.6 -18.7 11.1-39.4 19.2-61.5 23.5C399.8 75.8 374.6 64 346.8 64c-53.5 0-96.8 43.4-96.8 96.9 0 7.6 0.8 15 2.5 22.1 -80.5-4-151.9-42.6-199.6-101.3 -8.3 14.3-13.1 31-13.1 48.7 0 33.6 17.2 63.3 43.2 80.7C67 210.7 52 206.3 39 199c0 0.4 0 0.8 0 1.2 0 47 33.4 86.1 77.7 95 -8.1 2.2-16.7 3.4-25.5 3.4 -6.2 0-12.3-0.6-18.2-1.8 12.3 38.5 48.1 66.5 90.5 67.3 -33.1 26-74.9 41.5-120.3 41.5 -7.8 0-15.5-0.5-23.1-1.4C62.8 432 113.7 448 168.3 448 346.6 448 444 300.3 444 172.2c0-4.2-0.1-8.4-0.3-12.5C462.6 146 479 129 492 109.5z"/></svg>
+            </a>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://blog.m-brane.co.uk/posts/idea-to-product-4" title="Share on Facebook" rel="noreferrer noopener" target="_blank">
+              <svg viewBox="0 0 512 512"><path d="M288 192v-38.1c0-17.2 3.8-25.9 30.5-25.9H352V64h-55.9c-68.5 0-91.1 31.4-91.1 85.3V192h-45v64h45v192h83V256h56.4l7.6-64H288z"/></svg>
+            </a>
+            <a href="https://plus.google.com/share?url=https://blog.m-brane.co.uk/posts/idea-to-product-4" title="Share on Google+" rel="noreferrer noopener" target="_blank">
+              <svg viewBox="0 0 128 128"><path d="M40.7 55.9v16.1c0 0 15.6 0 22 0C59.2 82.5 53.8 88.2 40.7 88.2c-13.3 0-23.7-10.8-23.7-24.2s10.4-24.2 23.7-24.2c7.1 0 11.6 2.5 15.8 5.9 3.3-3.3 3.1-3.8 11.6-11.9 -7.2-6.6-16.8-10.6-27.4-10.6C18.2 23.3 0 41.5 0 64c0 22.5 18.2 40.7 40.7 40.7 33.6 0 41.8-29.3 39-48.8H40.7zM113.9 56.7V42.6h-10.1v14.1H89.4v10.1h14.5v14.5h10.1V66.8H128V56.7H113.9z"/></svg>
+            </a>
+          </div>
+
+          
+        </article>
+        <footer class="footer scrollappear">
+  <p>
+    Do you need to build a web or mobile app?
+    Visit <a href="https://m-brane.co.uk" title="About us">m-brane.co.uk</a> to learn more about us.
+  </p>
+</footer>
+      </div>
+    </div>
+  </main>
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126056641-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-126056641-1');
+  </script>
+
+
+<script src="/assets/vendor-0fb4b91f7ad6c193a69224eba7a01b691a2d7528ee672607575ccc0df3aea545.js" type="text/javascript"></script>
+
+
+  <script src="/assets/webfonts-96493456d319d1bf419afdf8701552d4d486fee6afd304897d4fd81eb4e0cc0b.js" type="text/javascript"></script>
+
+
+
+  <script src="/assets/scrollappear-e2da8ea567e418637e31266cc5302126eaa79f62a2273739086358b589a89ee6.js" type="text/javascript"></script>
+
+
+<script src="/assets/application-cfde13ac81ddaf4351b2e739603e2baf688d0fcc9aba613fe62bbb1c7b037fb9.js" type="text/javascript"></script>
+
+</body>
+</html>
